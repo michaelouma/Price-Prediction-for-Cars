@@ -7,8 +7,8 @@ This project involves different machine learning models for prediction.The aim o
 
 ## The following are the Overiew for the project
 ### Importing of libraries
-Pandas and Numpy;for data loading and numerical analysis respectively.<br>
-Data visualisation tools: Matplotlib.pyplot and seaborn.<br>
-Checking for outliers in the data:Stats from Scipy.<br>
-Handling warnings;Import warnings.<br>
-Machine Learning Models
+**Pandas and Numpy**;for data loading and numerical analysis respectively.<br>
+**Data visualisation tools**: Matplotlib.pyplot and seaborn.<br>
+**Checking for outliers in the data**:Stats from Scipy.<br>
+**Handling warnings**;Import warnings.<br>
+**Machine Learning Models**
